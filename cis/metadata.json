@@ -1,0 +1,15 @@
+{
+  "name": "calvinhartwell-cis",
+  "version": "0.0.1",
+  "author": "Calvin Hartwell <mail@hartwellsecurity.com>",
+  "summary": "",
+  "license": "BSD 2.0",
+  "source": "",
+  "project_page": "https://github.com/HartwellSecurity/cis-security-benchmark-puppet",
+  "issues_url": null,
+  "dependencies": [
+    {}
+  ]
+
+}
+
